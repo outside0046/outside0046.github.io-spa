@@ -1,1 +1,1 @@
-# outside0046.github.io-spa-
+# outside0046.github.io/spa
